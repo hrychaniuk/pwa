@@ -12,9 +12,9 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "index.html",
+    "start_url": "/pwa/build/index.html",
     "background_color": "#ffdb00",
     "display": "fullscreen",
-    "scope": "/",
+    "scope": "/pwa/build/",
     "theme_color": "#ffdb00"
 }
