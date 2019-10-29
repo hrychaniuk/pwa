@@ -2,12 +2,12 @@
     "short_name": "Hello Habr",
     "name": "Hello Habr - PWA example",
     "icons": [{
-            "src": "/public/ico.png",
+            "src": "public/ico.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/public/ico.png",
+            "src": "public/ico.png",
             "type": "image/png",
             "sizes": "512x512"
         }
