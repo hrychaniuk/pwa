@@ -11,7 +11,7 @@ window.addEventListener("load", () => {
     document.documentElement.classList.add('load');
 
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('public/sw.js')
+        navigator.serviceWorker.register('public/sw.js?a=1')
             .then(function(registration) {
                 console.log('Registration successful, scope is:', registration.scope);
             })
